@@ -1,7 +1,8 @@
-rootProject.name = 'minesweeper-mod'
 pluginManagement {
     repositories {
         maven { url "https://maven.fabricmc.net/" }
         gradlePluginPortal()
     }
 }
+
+rootProject.name = 'minesweeper-mod'
